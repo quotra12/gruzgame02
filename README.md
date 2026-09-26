@@ -1,4 +1,4 @@
-# Robo Tapper 123456
+# Robo Tapper 1234567
 
 Cyberpunk mini game for Base App:
 - tap the robot to gain score,
