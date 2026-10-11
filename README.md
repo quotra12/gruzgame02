@@ -2,6 +2,8 @@
 
 1 2 3 4 5 6 7 8 9 10
 
+1
+
 Cyberpunk mini game for Base App:
 - tap the robot to gain score,
 - perform one onchain check-in per 2-minute window,
